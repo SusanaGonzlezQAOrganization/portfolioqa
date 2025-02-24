@@ -1,6 +1,6 @@
 # PORTFOLIO
 This is my QA portfolio.
-[Susana Gonzalez PORTFOLIO]([https://bootcamp-qa.github.io/web-portfolio-template](https://github.com/SusanaGonzlezQAOrganization/portfolioqa)
+[Susana Gonzalez PORTFOLIO](https://bootcamp-qa.github.io/web-portfolio-template](https://github.com/SusanaGonzlezQAOrganization/portfolioqa)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
